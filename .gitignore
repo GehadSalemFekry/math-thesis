@@ -1,0 +1,7 @@
+.venv
+__pycache__
+
+media/
+slides/
+slides_assets/
+.DS_Store
